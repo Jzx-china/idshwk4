@@ -28,3 +28,4 @@ event zeek_init()
             }
         }
     }]);
+}
